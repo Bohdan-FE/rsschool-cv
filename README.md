@@ -1,1 +1,1 @@
-# https://Bohdan-FE.github.io/rsschool-cv/cv
+# https://Bohdan-FE.github.io/rsschool-cv/
